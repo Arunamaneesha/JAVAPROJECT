@@ -8,6 +8,7 @@ CLASS DEMO
 
 }
 
+<<<<<<< HEAD
 {
 	{
         	::::: MAINBRANCHCODE :::::
@@ -16,5 +17,15 @@ CLASS DEMO
 
 	]
 }
+=======
+     ::::: branchcode ::::::
+     ::::: branchcode ::::::
+
+
+
+
+
+
+>>>>>>> dev
 
 
